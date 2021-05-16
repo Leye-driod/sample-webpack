@@ -1,0 +1,25 @@
+{
+  "name": "sample-webpack",
+  "version": "1.0.0",
+  "description": "front end ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontend",
+    "wepack",
+    "setup",
+    "enviroment",
+    "template",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b",
+    "\u001b[Cwebpack",
+    "setup",
+    "enviroment",
+    "template",
+    "boilerplate"
+  ],
+  "author": "leye adekanye",
+  "license": "ISC"
+}
